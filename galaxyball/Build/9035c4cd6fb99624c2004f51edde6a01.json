@@ -1,0 +1,13 @@
+{
+"companyName": "Geagledev",
+"productName": "Galaxy Ball",
+"dataUrl": "e6924bdfb1465e79228d2e667c225a2b.unityweb",
+"asmCodeUrl": "0df6f549e29f5a5be7b68c283720faf1.unityweb",
+"asmMemoryUrl": "4e912639ad52d8ac8de4dac6f6cbc74a.unityweb",
+"asmFrameworkUrl": "83627f0e1564002a42eebfc46d0a2a0b.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}

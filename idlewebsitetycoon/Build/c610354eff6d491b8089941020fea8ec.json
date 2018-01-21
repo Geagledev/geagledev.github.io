@@ -1,0 +1,13 @@
+{
+"companyName": "GeagleDev",
+"productName": "Idle Website Tycoon",
+"dataUrl": "e8fd5a64bced01d87646f19a83db2e52.unityweb",
+"asmCodeUrl": "1f7c3a7139ec96e6094ac5ba9e27c0e4.unityweb",
+"asmMemoryUrl": "8ac902a724bdb78ad9b6425b17ca7148.unityweb",
+"asmFrameworkUrl": "495b1934a1fe5dba1afad69706ec2add.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
