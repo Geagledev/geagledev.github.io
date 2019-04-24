@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Like our Facebook!"
+subtitle: "do it!"
+date:   2019-04-23 20:22:01
+categories: [gamedev]
+---
+
+Like me on [facebook]. I will post there clips and Gifs from my games. I will also inform you about new devblogs and some news. 
+
+[facebook]: https://www.facebook.com/geagledev/
